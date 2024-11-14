@@ -1,6 +1,6 @@
 ﻿# Hubbard Simulation Sample #
 
-This sample walks through constructing the Jordan–Wigner representation of the time-evolution operator for the 1D Hubbard simulation model, similarly to the [**HubardHamiltonian**](../../Samples/src/HubbardHamiltonian/) sample, but using the chemistry library to represent the Hubbard model.
+This sample walks through constructing the Jordan–Wigner representation of the time-evolution operator for the 1D Hubbard simulation model, similarly to the [Hubard Hamiltonian](https://en.wikipedia.org/wiki/hubbard-model) sample, but using the chemistry library to represent the Hubbard model.
 
 ## Manifest ##
 
